@@ -21060,5 +21060,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+nav {
+  background-color: #bd5d38;
+  width: 250px;
+  padding-top: 150px;
+}
 
 /*# sourceMappingURL=style.css.map */
