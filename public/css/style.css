@@ -21069,11 +21069,16 @@ nav {
 #txtHeader {
   padding-top: 180px;
 }
-#txtHeader .txtOrange {
-  color: #bd5d38;
-}
 #txtHeader i {
   background-color: #495057;
+}
+
+.txtOrange {
+  color: #bd5d38;
+}
+
+main {
+  margin-left: 200px;
 }
 
 /*# sourceMappingURL=style.css.map */
