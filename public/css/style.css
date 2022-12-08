@@ -21081,4 +21081,11 @@ main {
   margin-left: 200px;
 }
 
+section {
+  margin-bottom: 150px;
+}
+section h2, section .h2 {
+  margin-top: 150px;
+}
+
 /*# sourceMappingURL=style.css.map */
