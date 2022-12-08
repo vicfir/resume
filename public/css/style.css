@@ -21066,4 +21066,14 @@ nav {
   padding-top: 150px;
 }
 
+#txtHeader {
+  padding-top: 180px;
+}
+#txtHeader .txtOrange {
+  color: #bd5d38;
+}
+#txtHeader i {
+  background-color: #495057;
+}
+
 /*# sourceMappingURL=style.css.map */
